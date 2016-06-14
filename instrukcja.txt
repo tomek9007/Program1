@@ -1,0 +1,8 @@
+Jest to projekt na akademie C#. Wylicza on cechy mechaniczno - fizyczne
+danego samochodu. Nie jest przesadnie skomplikowany, instrukcje pojawiaj¹ sie 
+w trakcie u¿ywanie programu. 
+Sterowanie: 
+1. w menu- wcisniecie cyfry 1 do 4 i zatwierdzenie
+	klawiszem enter.
+2. w poszczegolnych czlonach - wpisanie odpowiednich danych z klawiatury numerycznej
+	i potwierdzenie klawiszem enter
