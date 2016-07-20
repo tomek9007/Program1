@@ -119,7 +119,7 @@ namespace aplikacja_na_akademie
                             
                             else
                                 Console.WriteLine("Auto nie nadaje sie do przewozenia takiej ilosci pasazerow"); 
-                                Console.WriteLine("Wcisnij ENTER by powrocic do menu glownego");
+                                
 
                             break;
                         }
