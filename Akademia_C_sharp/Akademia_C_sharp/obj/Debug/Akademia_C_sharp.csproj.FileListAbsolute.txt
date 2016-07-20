@@ -1,0 +1,6 @@
+c:\users\tomek\documents\visual studio 2015\Projects\Akademia_C_sharp\Akademia_C_sharp\bin\Debug\Akademia_C_sharp.exe.config
+c:\users\tomek\documents\visual studio 2015\Projects\Akademia_C_sharp\Akademia_C_sharp\bin\Debug\Akademia_C_sharp.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Akademia_C_sharp\Akademia_C_sharp\bin\Debug\Akademia_C_sharp.pdb
+c:\users\tomek\documents\visual studio 2015\Projects\Akademia_C_sharp\Akademia_C_sharp\obj\Debug\Akademia_C_sharp.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2015\Projects\Akademia_C_sharp\Akademia_C_sharp\obj\Debug\Akademia_C_sharp.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Akademia_C_sharp\Akademia_C_sharp\obj\Debug\Akademia_C_sharp.pdb
